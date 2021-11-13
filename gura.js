@@ -391,7 +391,7 @@ menuh = `${ucapanWaktu} - @${sender.split("@")[0]}
 
 _*• Contact Owner*_
 _📮Whatsapp : @${owner}_
-_💌Email : finxdev8@gmail.com_
+_💌Email : rakinadif3@gmail.com_
 
 _*User Info :*_
 _Name : ${pushname}_
